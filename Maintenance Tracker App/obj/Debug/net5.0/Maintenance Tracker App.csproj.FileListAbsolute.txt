@@ -1,0 +1,61 @@
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\appsettings.json
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Maintenance Tracker App.exe
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Maintenance Tracker App.deps.json
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Maintenance Tracker App.runtimeconfig.json
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Maintenance Tracker App.runtimeconfig.dev.json
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Maintenance Tracker App.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\ref\Maintenance Tracker App.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Maintenance Tracker App.pdb
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.csprojAssemblyReference.cache
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.AssemblyInfoInputs.cache
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.AssemblyInfo.cs
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.csproj.CoreCompileInputs.cache
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\staticwebassets\Maintenance Tracker App.StaticWebAssets.Manifest.cache
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\staticwebassets\Maintenance Tracker App.StaticWebAssets.xml
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\scopedcss\bundle\Maintenance Tracker App.styles.css
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.RazorTargetAssemblyInfo.cache
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.csproj.CopyComplete
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\ref\Maintenance Tracker App.dll
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.pdb
+C:\Users\Nerdysolution012\Desktop\Going Forward\Learning Modules\Projects\Maintenance Tracker App\Maintenance Tracker App\obj\Debug\net5.0\Maintenance Tracker App.genruntimeconfig.cache
